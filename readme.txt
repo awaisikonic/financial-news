@@ -10,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 == Description ==
 
 
-== Installation ==
+== Installation Process ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Type in Understrap in the search form and press the 'Enter' key on your keyboard.
